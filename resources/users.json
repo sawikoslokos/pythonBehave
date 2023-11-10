@@ -1,0 +1,8 @@
+{
+  "role_admin_user": [
+    {
+      "username": "admin01",
+      "password": "hashed value"
+    }
+  ]
+}
